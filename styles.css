@@ -47,16 +47,10 @@ h1 {
   }
 
   .button-submit:hover {
-    width: 120%;
-    height: 100%;
-    position: absolute;
-    top: 0px;
-    background-image: radial-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), radial-gradient(rgba(0, 0, 0, 0) 33%, rgba(0, 0, 0, 0.3) 166%);
-    transform: translateZ(0px);
-    backface-visibility: hidden;
-    perspective: 1000px;
-    transition: 0.07s ease-out;
-}
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: violet;
+    }
   
   .bucket {
     display: inline-block;
